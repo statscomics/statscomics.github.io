@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#f8f5eb" />
+    <link rel="stylesheet" href="temp/showcase.css"}">
+  </head>
+  <body>
+    <div class="container">
+      <div class="cbc-outer">
+        <div class="cbc-inner" data-depth="0.2">
+          <div
+            class="comic-banner"
+            style="background-image: url(assets/img/comic-banner.png);"
+          ></div>
+        </div>
+      </div>
+      <div class="left-sidebar-content">
+        <div class="logos">
+          <img src="assets/img/logo-ed.png" />
+          <img src="assets/img/logo-ut.png" />
+        </div>
+        <div class="text-group">
+          <h1 class="sc-huge-title">Stats Comics</h1>
+          <p>Making papers and other scientific reports easier to read</p>
+          <div class="navigation">
+            <a class="single-nav" href="people.html">People</a>
+            <a class="single-nav" href="publication.html">Publication</a>
+            <a class="single-nav" href="workshop.html">Workshop</a>
+            <a class="single-nav" href="gallery.html">Gallery</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/parallax/3.1.0/parallax.min.js"></script>
+    <script>
+      var scene = document.querySelector(".cbc-outer");
+      var parallaxInstance = new Parallax(scene);
+    </script>
+  </body>
+</html>

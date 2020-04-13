@@ -1,0 +1,190 @@
+---
+---
+
+$paper: #f8f5eb;
+$coal: #333;
+$primary: #f0c40f;
+$primary-highlight: rgba(240, 196, 15, 0.5);
+
+body {
+  background-color: $paper;
+  background-image: url("../img/noise.png");
+  color: $coal;
+
+  a,
+  a:hover,
+  a:active {
+    color: inherit;
+    font-weight: inherit;
+    transition: all 0.2s;
+  }
+
+  a:hover {
+    opacity: 0.7;
+  }
+
+  .markdown-dest {
+    a {
+      text-decoration: underline;
+    }
+  }
+}
+
+@import "{{ site.theme }}";
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap");
+
+/*
+ ================ GLOBAL STYLES
+*/
+
+* {
+  font-family: "Work Sans", sans-serif;
+  transition: all 0.2s;
+  -webkit-tap-highlight-color: $primary;
+}
+
+*::selection {
+  background-color: $primary-highlight;
+}
+
+/*
+ ================ SHOWCASE STYLES
+*/
+
+body.showcase {
+  margin: 0;
+  padding: 0;
+  background-image: url("../img/noise-2.png");
+  * {
+    box-sizing: border-box;
+  }
+  .sc-huge-title {
+    font-size: 80px;
+    font-weight: 800;
+    letter-spacing: -3px;
+    line-height: 0.8;
+    margin-bottom: 18px;
+  }
+  .container {
+    display: flex;
+    position: relative;
+    overflow: hidden;
+  }
+  .left-sidebar-content {
+    display: flex;
+    height: 100vh;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 90px;
+  }
+  .logos {
+    filter: grayscale(1);
+    a {
+      margin-right: 20px;
+    }
+    img {
+      height: 40px;
+    }
+  }
+  .text-group p {
+    font-size: 33px;
+    max-width: 700px;
+    line-height: 1.1;
+  }
+  .navigation {
+    color: #aaa;
+    margin-top: 50px;
+  }
+  .single-nav {
+    text-transform: uppercase;
+    margin-right: 20px;
+    letter-spacing: 1px;
+    &:after {
+      content: "→";
+      display: inline-block;
+      margin-left: 3px;
+      transition: all 0.2s;
+    }
+    &:hover:after {
+      transform: translateX(4px);
+    }
+  }
+
+  .cbc-outer {
+    position: absolute;
+    left: 100%;
+    bottom: 0px;
+    z-index: -1;
+  }
+
+  .comic-banner {
+    background-size: contain;
+    background-blend-mode: multiply;
+    height: 135vh;
+    width: 90vh;
+    transform: rotate(-13deg) translateX(-30vw);
+    transform-origin: 100% 100%;
+  }
+
+  @media print, screen and (max-width: 920px) {
+    .left-sidebar-content {
+      padding: 40px;
+    }
+
+    .sc-huge-title {
+      font-size: 60px;
+    }
+
+    .text-group p {
+      font-size: 22px;
+    }
+
+    .logos img {
+      height: 20px;
+      margin-right: 2px;
+    }
+
+    .comic-banner {
+      transform: translateX(-6vw) rotate(-10deg);
+    }
+  }
+}
+
+/*
+ ================ POST STYLES
+*/
+
+body.page {
+  .sc-head {
+    font-size: 56px;
+    line-height: 0.7;
+    letter-spacing: -2px;
+  }
+
+  header {
+    padding-bottom: 30px;
+  }
+
+  .page-title {
+    color: $primary;
+  }
+
+  .navigation {
+    color: #aaa;
+    margin-top: 50px;
+  }
+  .single-nav {
+    text-transform: uppercase;
+    display: block;
+    letter-spacing: 1px;
+    &:after {
+      content: "→";
+      display: inline-block;
+      margin-left: 3px;
+      transition: all 0.2s;
+    }
+    &:hover:after {
+      transform: translateX(4px);
+    }
+  }
+}

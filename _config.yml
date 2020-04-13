@@ -1,0 +1,5 @@
+theme: jekyll-theme-minimal
+title: "Stats Comics"
+relative_links:
+  enabled: true
+  collections: true
