@@ -10,23 +10,23 @@ body {
   background-color: $paper;
   background-image: url("../img/noise.png");
   color: $coal;
+}
 
-  a,
-  a:hover,
-  a:active {
-    color: inherit;
-    font-weight: inherit;
-    transition: all 0.2s;
-  }
+a,
+a:hover,
+a:active {
+  color: inherit;
+  font-weight: inherit;
+  transition: all 0.2s;
+}
 
-  a:hover {
-    opacity: 0.7;
-  }
+a:hover {
+  opacity: 0.7;
+}
 
-  .markdown-dest {
-    a {
-      text-decoration: underline;
-    }
+.markdown-dest {
+  a {
+    text-decoration: underline;
   }
 }
 
@@ -36,10 +36,77 @@ body {
 
 * {
   -webkit-tap-highlight-color: $primary-highlight;
+  box-sizing: border-box;
 }
 
 *::selection {
   background-color: $primary-highlight;
+}
+
+/*
+ ================ PEOPLE STYLES
+*/
+
+.people {
+  * {
+    transition: all 0.2s;
+  }
+  .single-p {
+    text-decoration: none;
+  }
+}
+.single-p {
+  display: flex;
+  margin-bottom: 30px;
+
+  &:hover {
+    opacity: 1;
+    .intro {
+      transform: translateX(10px);
+    }
+  }
+  .r,
+  .l,
+  .intro {
+    height: 250px;
+    width: 250px;
+  }
+}
+
+.p-img {
+  background-size: cover;
+  background-position: center;
+
+  &.l {
+    background-color: $primary;
+    background-blend-mode: screen;
+  }
+
+  &.r {
+    background-color: $coal;
+    background-blend-mode: darken;
+    position: absolute;
+    z-index: -1;
+    filter: grayscale(1);
+  }
+}
+.intro {
+  padding: 20px;
+  color: white;
+  h1 {
+    font-size: 25px;
+    width: 50px;
+    line-height: 1;
+  }
+  small {
+    display: block;
+  }
+}
+
+@media print, screen and (max-width: 640px) {
+  .single-p {
+    flex-direction: column;
+  }
 }
 
 /*
@@ -62,8 +129,18 @@ body {
   margin-bottom: 30px;
   background: white;
   padding: 20px;
+  position: relative;
   img {
     width: 100%;
+  }
+  div {
+    mix-blend-mode: multiply;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-image: url("../img/noise.png");
   }
 }
 
