@@ -64,6 +64,9 @@ a:hover {
     .intro {
       transform: translateX(10px);
     }
+    .p-img.l {
+      background-color: transparent;
+    }
   }
   .r,
   .l,
@@ -82,20 +85,29 @@ a:hover {
     background-blend-mode: screen;
   }
 
+  &.l.light-photo {
+    background-color: lighten(rgba($primary, 1), 15%);
+    background-blend-mode: soft-light;
+  }
+
   &.r {
+    background-image: none !important;
+    // filter: grayscale(1);
     background-color: $coal;
     background-blend-mode: darken;
     position: absolute;
     z-index: -1;
-    filter: grayscale(1);
   }
 }
 .intro {
-  padding: 20px;
+  padding: 25px;
   color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
   h1 {
     font-size: 25px;
-    width: 50px;
+    width: 150px;
     line-height: 1;
   }
   small {
