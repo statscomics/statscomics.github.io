@@ -5,10 +5,4 @@ title: People
 
 ## Test Heading
 
-Test content
-
-> Test quote
-
-```html
-<div class="test-code" />
-```
+yea, we've got many people here

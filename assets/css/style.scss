@@ -35,12 +35,87 @@ body {
 */
 
 * {
-  transition: all 0.2s;
   -webkit-tap-highlight-color: $primary-highlight;
 }
 
 *::selection {
   background-color: $primary-highlight;
+}
+
+/*
+ ================ GALLERY STYLES
+*/
+
+.single-exhib {
+  max-width: 500px;
+  background: $coal;
+  padding: 40px;
+  color: white;
+  margin-bottom: 30px;
+  transition: all 0.2s;
+  &:hover {
+    background: $primary;
+  }
+}
+
+.exhib-img {
+  margin-bottom: 30px;
+  background: white;
+  padding: 20px;
+  img {
+    width: 100%;
+  }
+}
+
+.exhib-info {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+
+.exhib-text {
+  flex: 1;
+  h2,
+  p {
+    margin-bottom: 5px;
+    margin-top: 0;
+  }
+}
+
+.exhib-links {
+  width: 200px;
+  display: flex;
+  justify-content: flex-end;
+  a.exhib-button {
+    text-decoration: none;
+  }
+  .exhib-button {
+    display: block;
+    width: 50px;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border: 3px solid white;
+    color: white;
+    margin-left: 15px;
+    &:hover {
+      opacity: 1;
+      background: white;
+      color: $primary;
+    }
+    h1 {
+      margin: 0;
+    }
+    i {
+      margin-bottom: 7px;
+    }
+    small {
+      color: inherit;
+      font-size: 10px;
+    }
+  }
 }
 
 /*
