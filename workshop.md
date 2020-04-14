@@ -3,6 +3,10 @@ layout: page
 title: Workshop
 ---
 
+## About Stats Comics
+
+Scientific literature are notoriously hard to read. It doesn't have to be. We are finding a way to use comics to improve statstical communication and engage people on science reading.
+
 ## Nature of the Study
 
 You are about to participate in a workshop that involves: participating in a 120 minutes long workshop, in which you come with a statistical analysis you have done before (e.g. in a scientific paper). This workshop aims to teach you how to create small comic strips for your scientific analysis and insights for publication and dissemination.

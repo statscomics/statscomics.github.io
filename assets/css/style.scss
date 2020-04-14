@@ -4,7 +4,7 @@
 $paper: #f8f5eb;
 $coal: #333;
 $primary: #f0c40f;
-$primary-highlight: rgba(240, 196, 15, 0.5);
+$primary-highlight: rgba($primary, 0.5);
 
 body {
   background-color: $paper;
@@ -30,15 +30,11 @@ body {
   }
 }
 
-@import "{{ site.theme }}";
-@import url("https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap");
-
 /*
  ================ GLOBAL STYLES
 */
 
 * {
-  font-family: "Work Sans", sans-serif;
   transition: all 0.2s;
   -webkit-tap-highlight-color: $primary-highlight;
 }
@@ -185,6 +181,17 @@ body.page {
     }
     &:hover:after {
       transform: translateX(4px);
+    }
+  }
+  .logos {
+    margin-bottom: 10px;
+    filter: grayscale(1);
+    a {
+      margin-left: -5px;
+      margin-right: 8px;
+    }
+    img {
+      height: 40px;
     }
   }
 }

@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#f8f5eb" />
     {% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/base.css?v=" | append: site.github.build_revision | relative_url }}">
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
   </head>
   <body class="page">
@@ -13,7 +14,7 @@
       <header>
         <h1 class="sc-head">
           <a href="/">
-            Stats Comics
+            Stats<br />Comics
           </a>
           <span class="page-title">{{ page.title }}</span>
         </h1>
@@ -32,6 +33,12 @@
 
       </section>
       <footer>
+        <div class="logos">
+          <a href="https://www.ed.ac.uk/informatics/"><img src="assets/img/univs/logo-ed-s.png" /></a>
+          <a href="https://web.cs.toronto.edu/"><img src="assets/img/univs/logo-ut-s.png" /></a>
+          <a href="http://stanford.edu/"><img src="assets/img/univs/logo-stanford-s.png" /></a>
+          <a href="http://cic.tju.edu.cn/"><img src="assets/img/univs/logo-tju-s.png" /></a>
+        </div>
         <p><small>Copyright &copy; 2020 Stats Comics.</small></p>
       </footer>
     </div>
