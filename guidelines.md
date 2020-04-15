@@ -48,6 +48,9 @@ _We do not give visual examples to not bias your decisions. We are interested wh
 
 ## Setup & Proceedure 
 
+* [1. Context and Motivation](#context-and-motivation) 
+* [2. Conditions](#conditions) 
+
 ### 1. Context and Motivation
 The objective of this stage is to introduce the context and problem to your audience and provide background knowledge for the audience to understand your research. This includes
 * The problem you're studying
@@ -57,7 +60,7 @@ The objective of this stage is to introduce the context and problem to your audi
 
 The context might be best introduced with conventional and schematic drawings, rather than data visualiztions.
 
-__2. Conditions__
+### 2. Conditions
 Explain the conditions you are testing in your study. 
 This should include 
 * any baseline technique(s), 
