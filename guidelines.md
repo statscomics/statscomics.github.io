@@ -25,15 +25,15 @@ The purpose of this workshop is
 * __For us:__ to understand which concepts you need to illustrate, which visual solutions you prefer, and how we can help you creating your stats comics. This will help us creating more complete guidelines for stats comics in HCI.
 
 The workshop is structured as follows: 
-1. We introduce you to stats comics, including an [example](examples.html)
-2. explain you the background of our research 
-3. you will have time to prepre a storyboard---i.e., a rough outline---for your own stats comic, using the below [stages and guidelines](#stats-comics-stages). That stoyboard, should contain information about 
+1. We __introduce stats comics__, including an [example](examples.html),
+2. explain the __background of our research__, 
+3. __you prepre a storyboard__---i.e., a rough outline---for your own stats comic, using the below [stages and guidelines](#stats-comics-stages). That stoyboard, should contain information about 
   * what to show and in which order
   * textual annotations
   * visual explanations to explain your study 
-4. Once you are happy with your storyboard, you can contact us and we will go with you through your storyboard to discuss any issues and difficulties you have. Together, we will try to find solutions to any issues. 
-5. We will return to you a draft for a polished version, designed by one of our graphic designers/illustators
-6. you can provide feedback for a last polishing.
+4. Once you are happy with your storyboard, you contact us and we __will go with you through your storyboard to discuss any  difficulties you found__. Together, we will try to find solutions to any issues. 
+5. __We return you a draft for a polished version__, designed by one of our graphic designers/illustators
+6. __you provide feedback__ for a last polishing.
   
 More information about the study and is ethics procedure can be [found here](workshop.html). For any question, please contact [Zezhong Wang](mailto:zezhong.wang@ed.ac.uk).
 
