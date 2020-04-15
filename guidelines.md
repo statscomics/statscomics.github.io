@@ -50,7 +50,7 @@ _We do not give visual examples to not bias your decisions. We are interested wh
 
 * [1. Context and Motivation](#context-and-motivation) 
 * [2. Conditions](#conditions) 
-* <to be completed...>
+* _to be completed..._
 
 ### 1. Context and Motivation
 The objective of this stage is to introduce the context and problem to your audience and provide background knowledge for the audience to understand your research. This includes
