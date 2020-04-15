@@ -14,14 +14,16 @@ Especially for stats comcis, that means that you can
 * explain in the text, what is hard to convey through pictures
 * mix data visualizations (e.g., charts) with schematic representations (e.g., flow-charts), and other illustrations (e.g., study setup)
 * annotate figures, especially data visualizations. 
+* __sometimes a single panel is enough__, sometimes you may decide on several panels. 
+* some panels might be large and contain a lot of infomation, sometimes a panel might be fairly small with a picture only.
 
 # Stats comics stages
 
 This section guides you through creating a stats comic for your own study. 
 
 Keep in mind the following:
-* you may not need to illustrate each stage. The below list is extensive to capture as many parts of a study as possible. You chose the stages that are most important and can benefit you study most.
-* the list gives examples of what to report. This may be be complete and we are interested in which stages and informtion _your_ study requires to show. 
+* __you may not need to illustrate each stage in your study__. The below list is extensive to capture as many parts of a study as possible. You chose the stages that are most important and can benefit you study most.
+* the list gives examples of what to report. __The list may be incomplete__ and we are interested in which stages and informtion _your_ study requires to show.
 
 _We do not give visual examples to not bias your decisions. We are interested which visual solutions you find to report your study. __There is no right or wrong__ as we want to __work and discuss with you__ to the find the best possible representation for your study._ 
 
