@@ -17,6 +17,25 @@ Especially for stats comcis, that means that you can
 * __sometimes a single panel is enough__, sometimes you may decide on several panels. 
 * some panels might be large and contain a lot of infomation, sometimes a panel might be fairly small with a picture only.
 
+# Purpose of the workshop
+
+The purpose of this workshop is 
+* __for you:__ to help you create compelling stats comics for your study to be included in your website, a poster, or even a paper
+* __for us:__ to understand which concepts you need to illustrate, which visual solutions you prefer, and how we can help you creating your stats comic. 
+
+The study is structured as follows: 
+* We introduce you to stats comics, including an [example](examples.html)
+* explain you the background of our research 
+* you will have time to prepre a storyboard---i.e., a rough outline---for your own stats comic, using the below [stages and guidelines](#stats-comics-stages). That stoyboard, should contain information about 
+  * what to show and in which order
+  * textual annotations
+  * visual explanations to explain your study 
+* Once you are happy with your storyboard, you can contact us and we will go with you through your storyboard to discuss any issues and difficulties you have. Together, we will try to find solutions to any issues. 
+* We will return to you a draft for a polished version, designed by one of our graphic designers/illustators
+* you can provide feedback for a last polishing.
+  
+More information about the study and is ethics procedure can be [found here](workshop.html). For any question, please contact [Zezhong Wang](mailto:zezhong.wang@ed.ac.uk).
+
 # Stats comics stages
 
 This section guides you through creating a stats comic for your own study. 
