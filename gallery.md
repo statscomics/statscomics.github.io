@@ -14,11 +14,11 @@ title: Gallery
         <p>By Benjamin Bach</p>
       </div>
       <div class="exhib-links">
-        <a href class="exhib-button">
+        <a href="https://www.jacobritchie.xyz/a_lie_reveals_the_truth.pdf" target="blank" class="exhib-button">
           <i class="material-icons">menu_book</i>
           <small>Paper</small>
         </a>
-        <a href class="exhib-button">
+        <a href="gallery/lie.html" class="exhib-button">
           <i class="material-icons">crop_original</i>
           <small>Comics</small>
         </a>
