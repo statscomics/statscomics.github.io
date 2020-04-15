@@ -47,7 +47,7 @@ Keep in mind the following:
 
 _We do not give visual examples to not bias your decisions. We are interested which visual solutions you find to report your study. __There is no right or wrong__ as we want to __work and discuss with you__ to the find the best possible representation for your study._ 
 
-## Setup & Proceedure 
+## Part I: Setup & Proceedure 
 
 * [1. Context and Motivation](#context-and-motivation) 
 * [2. Conditions](#conditions) 
@@ -102,7 +102,7 @@ This stage should report
 * What data has been collected (e.g., error, task-completion time, subjective feedback, counting mouse clicks, eye-tracking...)
 * how data has been collected or calculated (e.g., which stages of the study were timed, how was task-accuracy calculated, how was eye-tracking analyzed, how were interview replied coded, ... )
 
-## RESULT ANALYSIS 
+## Part II: Result Analysis
 
 ### 9. Data Transformations and Checks
 This stage presents the transformations and checks for the data, performed before the result analysis and any significant tests or regressions. This stage includes explaining
