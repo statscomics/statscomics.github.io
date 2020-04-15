@@ -37,7 +37,7 @@ The purpose of this workshop is
 
 The workshop is structured as follows:
 
-1. We __introduce stats comics__, including an [example](examples.html),
+1. We __introduce stats comics__, including an [example](gallery.html),
 2. explain the __background of our research__,
 3. __you prepare a storyboard__ - i.e., a rough outline - for your own stats comic, using the below [stages and guidelines](#stats-comics-stages). That storyboard, should contain information about
 
@@ -64,8 +64,8 @@ _We do not give visual examples to not bias your decisions. We are interested in
 
 ## Part I: Setup & Procedure
 
-1. [Context and Motivation](#context-and-motivation)
-2. [Conditions](#conditions)
+1. [Context and Motivation](#1-context-and-motivation)
+2. [Conditions](#2-conditions)
 3. _to be completed..._
 
 ### 1. Context and Motivation
@@ -102,7 +102,7 @@ Tasks are designed activities for participants in the study to measure the perfo
 * What do participants have to do in each task, e.g., interactions or other actions?
 * Which steps are they going through?
 
-### 5. Data Samples & study materials
+### 5. Data Samples & Study Materials
 
 Data samples are selected or generated examples to be used in the study. The samples should reflect
 

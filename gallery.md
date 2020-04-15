@@ -3,7 +3,7 @@ layout: page
 title: Gallery
 ---
 
-<div class="exhibs">
+<div class="exhibs not-markdown-area">
   <div class="single-exhib">
     <div class="exhib-img">
       <img src="assets/img/comics/2.png" />
