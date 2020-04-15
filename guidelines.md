@@ -9,30 +9,31 @@ To that end, stats comics draw inspiration from traditional comics such as
 * a combination of __text + picture__, i.e., any picture can be accompanied by text to explain additional information about the picture or provide information to resolve ambiguity in the picture. 
 * a __sequence of panels__, whereby each panel can focus on a single message, i.e., a single piece of information while the sequence helps explaining more complex information
 
-Especially for stats comcis, that means that you can
+Especially for stats comcis, that means that you should
 * illustrate in pictures what requires visual explanation, 
 * explain in the text, what is hard to convey through pictures
 * mix data visualizations (e.g., charts) with schematic representations (e.g., flow-charts), and other illustrations (e.g., study setup)
-* annotate figures, especially data visualizations. 
-* __sometimes a single panel is enough__, sometimes you may decide on several panels. 
+* annotate figures, especially information about your data visualizations
+* be consistent with your visual choices, e.g., reuse colors and charts as much as possible througout the comic.
+* sometimes a single panel is enough, sometimes you may decide on several panels. 
 * some panels might be large and contain a lot of infomation, sometimes a panel might be fairly small with a picture only.
 
-# Purpose of the workshop
+# Purpose of this stats comics workshop
 
 The purpose of this workshop is 
-* __for you:__ to help you create compelling stats comics for your study to be included in your website, a poster, or even a paper
-* __for us:__ to understand which concepts you need to illustrate, which visual solutions you prefer, and how we can help you creating your stats comic. 
+* __For you:__ to help you create compelling stats comics for your study to be included in your website, a poster, or even a paper.
+* __For us:__ to understand which concepts you need to illustrate, which visual solutions you prefer, and how we can help you creating your stats comics. This will help us creating more complete guidelines for stats comics in HCI.
 
-The study is structured as follows: 
-* We introduce you to stats comics, including an [example](examples.html)
-* explain you the background of our research 
-* you will have time to prepre a storyboard---i.e., a rough outline---for your own stats comic, using the below [stages and guidelines](#stats-comics-stages). That stoyboard, should contain information about 
+The workshop is structured as follows: 
+1. We introduce you to stats comics, including an [example](examples.html)
+2. explain you the background of our research 
+3. you will have time to prepre a storyboard---i.e., a rough outline---for your own stats comic, using the below [stages and guidelines](#stats-comics-stages). That stoyboard, should contain information about 
   * what to show and in which order
   * textual annotations
   * visual explanations to explain your study 
-* Once you are happy with your storyboard, you can contact us and we will go with you through your storyboard to discuss any issues and difficulties you have. Together, we will try to find solutions to any issues. 
-* We will return to you a draft for a polished version, designed by one of our graphic designers/illustators
-* you can provide feedback for a last polishing.
+4. Once you are happy with your storyboard, you can contact us and we will go with you through your storyboard to discuss any issues and difficulties you have. Together, we will try to find solutions to any issues. 
+5. We will return to you a draft for a polished version, designed by one of our graphic designers/illustators
+6. you can provide feedback for a last polishing.
   
 More information about the study and is ethics procedure can be [found here](workshop.html). For any question, please contact [Zezhong Wang](mailto:zezhong.wang@ed.ac.uk).
 
