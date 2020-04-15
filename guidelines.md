@@ -95,6 +95,7 @@ The study setup gives an overview of the study process and logic. It can include
 * participants and specific selection criteria
 * the sequence of steps involved in the setup (e.g., instructions, training, repetitions, questionnaires, ...)
 * important information about each state (e.g., length of each stage,); sample and task assignment (e.g., by randomization plot). 
+* randomization
 
 
 ### 8. Dependent variables and data collection
