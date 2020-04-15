@@ -2,7 +2,15 @@
 layout: page
 ---
 
-<style></style>
+<style>
+  body {
+    background: #222;
+    color: white;
+  }
+  body.page footer .logos {
+    filter: invert(1) grayscale(1);
+  }
+</style>
 
 <div class="gallery-dest">
   {{ content }}

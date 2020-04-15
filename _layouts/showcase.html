@@ -1,50 +1,36 @@
-<!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
-  <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#f8f5eb" />
-    {% seo %}
-    <link rel="stylesheet" href="{{ "/assets/css/base.css?v=" | append: site.github.build_revision | relative_url }}">
-    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}"> </head>
-  <body class="showcase">
-    <div class="container">
-      <div class="cbc-outer">
-        <div class="cbc-inner" data-depth="0.2">
-          <div
-            class="comic-banner"
-            style="background-image: url(assets/img/comic-banner.png);"
-          ></div>
-        </div>
-      </div>
-      <div class="left-sidebar-content">
-        <div class="logos">
-          <a href="https://www.ed.ac.uk/informatics/"><img src="assets/img/univs/logo-ed.png" /></a>
-          <a href="https://web.cs.toronto.edu/"><img src="assets/img/univs/logo-ut.png" /></a>
-        </div>
-        <div class="text-group">
-          <h1 class="sc-huge-title">Stats Comics</h1>
-          <p>Making papers and other scientific reports easier to read</p>
-          {% include nav.html %}
-        </div>
+---
+layout: base
+---
+
+<body class="showcase">
+  <div class="container">
+    <div class="cbc-outer">
+      <div class="cbc-inner" data-depth="0.2">
+        <div
+          class="comic-banner"
+          style="background-image: url(assets/img/comic-banner.png);"
+        ></div>
       </div>
     </div>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/parallax/3.1.0/parallax.min.js"></script>
-    <script>
-      var scene = document.querySelector(".cbc-outer");
-      var parallaxInstance = new Parallax(scene);
-    </script>
-    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
-    {% if site.google_analytics %}
-    <script>
-      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-      ga('create', '{{ site.google_analytics }}', 'auto');
-      ga('send', 'pageview');
-    </script>
-    {% endif %}
-  </body>
-</html>
+    <div class="left-sidebar-content">
+      <div class="logos">
+        <a href="https://www.ed.ac.uk/informatics/"
+          ><img src="assets/img/univs/logo-ed.png"
+        /></a>
+        <a href="https://web.cs.toronto.edu/"
+          ><img src="assets/img/univs/logo-ut.png"
+        /></a>
+      </div>
+      <div class="text-group">
+        <h1 class="sc-huge-title">Stats Comics</h1>
+        <p>Making papers and other scientific reports easier to read</p>
+        {% include nav.html %}
+      </div>
+    </div>
+  </div>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/parallax/3.1.0/parallax.min.js"></script>
+  <script>
+    var scene = document.querySelector(".cbc-outer");
+    var parallaxInstance = new Parallax(scene);
+  </script>
+</body>
