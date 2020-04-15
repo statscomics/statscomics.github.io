@@ -42,6 +42,18 @@ a:hover {
   opacity: 0.7;
 }
 
+h1.variable {
+  font-size: 55px;
+  letter-spacing: -1px;
+}
+
+@media print, screen and (max-width: 640px) {
+  h1.variable {
+    font-size: 35px;
+    letter-spacing: -0.5px;
+  }
+}
+
 .markdown-dest {
   a {
     text-decoration: none;
@@ -76,9 +88,26 @@ a:hover {
  ================ GALLERY-POST STYLES
 */
 
-.gallery-dest {
-  img {
-    display: block;
+body.gallery {
+  background: #222;
+  color: white;
+
+  header,
+  section,
+  footer {
+    width: unset;
+    float: unset;
+    position: unset;
+  }
+
+  footer .logos {
+    filter: invert(1) grayscale(1);
+  }
+
+  .gallery-dest {
+    img {
+      display: block;
+    }
   }
 }
 

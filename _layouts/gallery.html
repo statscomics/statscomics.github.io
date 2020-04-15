@@ -1,19 +1,26 @@
 ---
-layout: page
+layout: base
 ---
 
-<style>
-  body {
-    background: #222;
-    color: white;
-  }
-  body.page footer .logos {
-    filter: invert(1) grayscale(1);
-  }
-</style>
-
-<div class="gallery-dest">
-  {{ content }}
-</div>
-
-<h2><a href="/gallery.html">Back to Gallery</a></h2>
+<body class="page gallery">
+  <div class="wrapper">
+    <header>
+      <!-- <h1 class="sc-head">
+        <a href="/"> Stats<br />Comics<br /> </a>
+        <span class="page-title">Gallery</span>
+      </h1> -->
+      {% include nav.html %}
+    </header>
+    <h1 class="variable">{{ page.title }}</h1>
+    <section class="markdown-dest">
+      <div class="gallery-dest">
+        {{ content }}
+      </div>
+      <h2><a href="/gallery.html">Back to Gallery</a></h2>
+    </section>
+    <footer>
+      {% include logo-s.html %}
+      <p><small>Copyright &copy; 2020 Stats Comics.</small></p>
+    </footer>
+  </div>
+</body>
