@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: "Stats Comics"
-description: "Making papers and other scientific reports easier to read"
+description: "Data Comics for Reporting Controlled Experiments in HCI"
 relative_links:
   enabled: true
   collections: true
