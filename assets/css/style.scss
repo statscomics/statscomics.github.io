@@ -6,10 +6,28 @@ $coal: #333;
 $primary: #f0c40f;
 $primary-highlight: rgba($primary, 0.5);
 
+/*
+ ================ GLOBAL STYLES
+*/
+
 body {
   background-color: $paper;
   background-image: url("../img/noise.png");
   color: $coal;
+}
+
+* {
+  -webkit-tap-highlight-color: $primary-highlight;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+*::selection {
+  background-color: $primary-highlight;
+}
+
+[none] {
+  display: none !important;
 }
 
 a,
@@ -55,21 +73,13 @@ a:hover {
 }
 
 /*
- ================ GLOBAL STYLES
+ ================ GALLERY-POST STYLES
 */
 
-* {
-  -webkit-tap-highlight-color: $primary-highlight;
-  box-sizing: border-box;
-  scroll-behavior: smooth;
-}
-
-*::selection {
-  background-color: $primary-highlight;
-}
-
-[none] {
-  display: none !important;
+.gallery-dest {
+  img {
+    display: block;
+  }
 }
 
 /*

@@ -18,7 +18,7 @@ title: Gallery
           <i class="material-icons">menu_book</i>
           <small>Paper</small>
         </a>
-        <a href="gallery/lie.html" class="exhib-button">
+        <a href="/gallery/lie.html" class="exhib-button">
           <i class="material-icons">crop_original</i>
           <small>Comics</small>
         </a>
@@ -33,14 +33,14 @@ title: Gallery
     <div class="exhib-info">
       <div class="exhib-text">
         <h2>Weighted Graph Comparison Techniques for Brain Connectivity Analysis</h2>
-        <p>By John Doe</p>
+        <p>By Tzingtao Chow</p>
       </div>
       <div class="exhib-links">
-        <a href class="exhib-button">
+        <a href="https://hal.inria.fr/hal-00780999/document" class="exhib-button">
           <h1>P</h1>
           <small>Paper</small>
         </a>
-        <a href class="exhib-button">
+        <a href="/gallery/weighted.html" class="exhib-button">
           <h1>C</h1>
           <small>Comics</small>
         </a>
@@ -54,7 +54,7 @@ title: Gallery
     </div>
     <div class="exhib-info">
       <div class="exhib-text">
-        <h2>Whatever Other Things We've Got HHere</h2>
+        <h2>Whatever Other Things We've Got Here</h2>
         <p>By John Doe</p>
       </div>
       <div class="exhib-links">
