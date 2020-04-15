@@ -9,7 +9,7 @@ To that end, stats comics draw inspiration from traditional comics such as
 * a combination of __text + picture__, i.e., any picture can be accompanied by text to explain additional information about the picture or provide information to resolve ambiguity in the picture. 
 * a __sequence of panels__, whereby each panel can focus on a single message, i.e., a single piece of information while the sequence helps explaining more complex information
 
-Especially for stats comcis, that means that you should
+Especially for stats comcis, that means that __you can__
 * illustrate in pictures what requires visual explanation, 
 * explain in the text, what is hard to convey through pictures
 * mix data visualizations (e.g., charts) with schematic representations (e.g., flow-charts), and other illustrations (e.g., study setup)
