@@ -1,4 +1,4 @@
-# Guidelines for creating Stats Comics
+# Creating Stats Comics
 
 Stats comics aim to provide easy access to
 * hypotheses, conditions and decisions involved in a study
