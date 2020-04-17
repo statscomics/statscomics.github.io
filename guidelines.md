@@ -68,7 +68,16 @@ _We do not give visual examples to not bias your decisions. We are interested in
 
 1. [Context and Motivation](#1-context-and-motivation)
 2. [Conditions](#2-conditions)
-3. _to be completed..._
+3. [Hypotheses](#hypotheses)
+4. [Tasks](#tasks)
+5. [Data Samples & Study Materials](#data-samples--study-materials
+6. [Power Analysis](#power-analysis}
+7. [Study Setup](#study-setup)
+8. [Dependent Variables and Data Collection](#dependent-variables-and-data-collection)
+9. [Data Transformations and Checks](#data-transformations-and-checks)
+10. [Results Presentation](#result-presentation)
+11. [Hypotheses Proof](#hypotheses-proof)
+
 
 ### 1. Context and Motivation
 
