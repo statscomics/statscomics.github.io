@@ -5,7 +5,7 @@ title: Workshop
 
 ## About Stats Comics
 
-Scientific literature are notoriously hard to read. It doesn't have to be. We are finding a way to use comics to improve statstical communication and engage people on science reading.
+Scientific literature is notoriously hard to read. It doesn't have to be. We are finding a way to use comics to improve statistical communication and engage people in science reading.
 
 ## Nature of the Study
 
