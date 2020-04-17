@@ -68,15 +68,15 @@ _We do not give visual examples to not bias your decisions. We are interested in
 
 1. [Context and Motivation](#1-context-and-motivation)
 2. [Conditions](#2-conditions)
-3. [Hypotheses](#hypotheses)
-4. [Tasks](#tasks)
-5. [Data Samples & Study Materials](#data-samples--study-materials
-6. [Power Analysis](#power-analysis}
-7. [Study Setup](#study-setup)
-8. [Dependent Variables and Data Collection](#dependent-variables-and-data-collection)
-9. [Data Transformations and Checks](#data-transformations-and-checks)
-10. [Results Presentation](#result-presentation)
-11. [Hypotheses Proof](#hypotheses-proof)
+3. [Hypotheses](#3-hypotheses)
+4. [Tasks](#4-tasks)
+5. [Data Samples & Study Materials](#5-data-samples--study-materials)
+6. [Power Analysis](#6-power-analysis)
+7. [Study Setup](#7-study-setup)
+8. [Dependent Variables and Data Collection](#8-dependent-variables-and-data-collection)
+9. [Data Transformations and Checks](#9-data-transformations-and-checks)
+10. [Results Presentation](#10-results-presentation)
+11. [Hypotheses Proof](#11-hypotheses-proof)
 
 
 ### 1. Context and Motivation
