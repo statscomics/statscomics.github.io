@@ -9,15 +9,16 @@ layout: base
         <a href="/"> Stats<br />Comics<br /> </a>
         <span class="page-title">Gallery</span>
       </h1> -->
-      {% include nav.html %}
     </header>
-    <h1 class="variable">{{ page.title }}</h1>
     <section class="markdown-dest">
+      <h2><a href="/gallery.html">Back to Gallery</a></h2>
+      <br />
+      <h1 class="variable">{{ page.title }}</h1>
       <div class="gallery-dest">
         {{ content }}
       </div>
-      <h2><a href="/gallery.html">Back to Gallery</a></h2>
     </section>
+    <!-- {% include nav.html %} -->
     <footer>
       {% include logo-s.html %}
       <p><small>Copyright &copy; 2020 Stats Comics.</small></p>
