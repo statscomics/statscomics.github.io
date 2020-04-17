@@ -7,6 +7,8 @@ title: Guidelines
 
 # Creating Stats Comics
 
+![](/assets/img/trans-primary.jpg)
+
 Stats comics aim to provide easy access to
 
 * hypotheses, conditions, and decisions involved in a study
