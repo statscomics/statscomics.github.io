@@ -85,26 +85,4 @@ title: Gallery
     </div>
   </div>
 
-  <div class="single-exhib">
-    <div class="exhib-img">
-      <img src="assets/img/comics/4.jpg" />
-    </div>
-    <div class="exhib-info">
-      <div class="exhib-text">
-        <h2>Whatever Other Things We've Got Here</h2>
-        <p>By John Doe</p>
-      </div>
-      <div class="exhib-links">
-        <a href class="exhib-button">
-          <i class="material-icons">menu_book</i>
-          <small>Paper</small>
-        </a>
-        <a href class="exhib-button">
-          <i class="material-icons">crop_original</i>
-          <small>Comic</small>
-        </a>
-      </div>
-    </div>
-  </div>
-
 </div>
