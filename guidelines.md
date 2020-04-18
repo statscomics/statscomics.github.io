@@ -68,13 +68,13 @@ _We do not give visual examples to not bias your decisions. We are interested in
 2. [Conditions](#2-conditions)
 3. [Hypotheses](#3-hypotheses)
 4. [Tasks](#4-tasks)
-5. [Data Samples & Study Materials](#5-data-samples--study-materials)
+5. [Stimuli & Study Materials](#5-stimuli--study-materials)
 6. [Power Analysis](#6-power-analysis)
 7. [Study Setup](#7-study-setup)
 8. [Dependent Variables and Data Collection](#8-dependent-variables-and-data-collection)
 9. [Data Transformations and Checks](#9-data-transformations-and-checks)
-10. [Presentation of Results](#10-results-presentation)
-11. [Hypotheses Proof](#11-hypotheses-proof)
+10. [Presentation of Results](#10-presentation-of-results)
+11. [Hypotheses Evaluation](#11-hypotheses-evaluation)
 
 
 ### 1. Context and Motivation
@@ -167,7 +167,7 @@ The presentation of results is an essential stage for a study report. This stage
 * Show other findings such as trends, extreme values, distributions, outliers, etc.
 * You can provide different views onto the same chart (e.g., provide overview and detail, or show the same chart twice with different annotations). Furthermore, it may discuss how results reflect different conditions by referring to the stimuli.
 
-### 11. Hypothesis evaluation
+### 11. Hypothesis Evaluation
 
 This stage presents the conclusion by contrasting hypotheses, as stated in the beginning, with the result of the study. You may show
 
