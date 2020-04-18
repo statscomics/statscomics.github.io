@@ -74,7 +74,7 @@ _We do not give visual examples to not bias your decisions. We are interested in
 8. [Dependent Variables and Data Collection](#8-dependent-variables-and-data-collection)
 9. [Data Transformations and Checks](#9-data-transformations-and-checks)
 10. [Presentation of Results](#10-presentation-of-results)
-11. [Hypotheses Evaluation](#11-hypotheses-evaluation)
+11. [Hypothesis Evaluation](#11-hypothesis-evaluation)
 
 
 ### 1. Context and Motivation
