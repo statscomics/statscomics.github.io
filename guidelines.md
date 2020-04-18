@@ -16,24 +16,24 @@ Stats comics aim to provide easy access to
 To that end, stats comics draw inspiration from traditional comics such as
 
 * a combination of __text + picture__, i.e., any picture can be accompanied by text to explain additional information about the picture or provide information to resolve ambiguity in the picture.
-* a __sequence of panels__, whereby each panel can focus on a single message, i.e., a single piece of information while the sequence helps explaining more complex information
+* a __sequence of panels__, whereby each panel can focus on a single message, i.e., a single piece of information, while the sequence helps to explain more complex information
 
 Especially for stats comics, that means that __you can__
 
 * illustrate in pictures what requires visual explanation,
-* explain in the text, what is hard to convey through pictures
+* explain through text what is hard to convey through pictures
 * mix data visualizations (e.g., charts) with schematic representations (e.g., flow-charts), and other illustrations (e.g., study setup)
 * annotate figures, especially information about your data visualizations
 * be consistent with your visual choices, e.g., reuse colors and charts as much as possible throughout the comic.
-* sometimes a single panel is enough, sometimes you may decide on several panels.
-* some panels might be large and contain a lot of information, sometimes a panel might be fairly small with a picture only.
+* use a variable number of panels: sometimes a single panel is enough, sometimes you may decide on several panels.
+* experiment with panel size: some panels might be large and contain a lot of information, sometimes a panel might be fairly small with a picture only.
 
 # Purpose of This Stats Comics Workshop
 
 The purpose of this workshop is
 
 * __For you:__ to help you create compelling stats comics for your study to be included in your website, a poster, or even a paper.
-* __For us:__ to understand which concepts you need to illustrate, which visual solutions you prefer, and how we can help you creating your stats comics. This will help us creating more complete guidelines for stats comics in HCI.
+* __For us:__ to understand which concepts you need to illustrate, which visual solutions you prefer, and how we can help you create your stats comics. This will help us creating more complete guidelines for stats comics in HCI.
 
 The workshop is structured as follows:
 
@@ -57,7 +57,7 @@ This section guides you through creating a stats comic for your own study.
 
 Keep in mind the following:
 
-* __you may not need to illustrate each stage in your study__. The below list is extensive to capture as many parts of a study as possible. You chose the stages that are most important and can benefit your study most.
+* __you may not need to illustrate each stage in your study__. The below list is extensive and designed to capture as many parts of a study as possible. You should chose the stages that are most important and benefit your study most to illustrate.
 * the list gives examples of what to report. __The list may be incomplete__, and we are interested in which stages and information _your_ study requires to show.
 
 _We do not give visual examples to not bias your decisions. We are interested in which visual solutions you find to report your study. __There is no right or wrong__ as we want to __work and discuss with you__ to find the best possible representation for your study._
@@ -73,13 +73,13 @@ _We do not give visual examples to not bias your decisions. We are interested in
 7. [Study Setup](#7-study-setup)
 8. [Dependent Variables and Data Collection](#8-dependent-variables-and-data-collection)
 9. [Data Transformations and Checks](#9-data-transformations-and-checks)
-10. [Results Presentation](#10-results-presentation)
+10. [Presentation of Results](#10-results-presentation)
 11. [Hypotheses Proof](#11-hypotheses-proof)
 
 
 ### 1. Context and Motivation
 
-The objective of this stage is to introduce the context and problem to your audience and provide background knowledge for the audience to understand your research. This includes
+The objective of this stage is to introduce the research problem to your audience and to provide context and background knowledge to help the audience to understand your research. This includes
 
 * The problem you're studying
 * the domain
@@ -101,31 +101,39 @@ Similar to Context and Motivation, conditions could be illustrated with conventi
 
 ### 3. Hypotheses
 
-Explain the hypotheses of your study. For predicting effect sizes and quantitative results, for example, you could use data visualizations as you would use to report your results. It is important to highlight any differences or values you predict in your hypotheses. You may decide to place the hypotheses before the condition if that works better.
+Explain the hypotheses of your study. 
+
+For predicting effect sizes and quantitative results, for example, you could use the same data visualizations that you would use to report your results. It is important to highlight the specific differences or values you predict in your hypotheses. 
+
+You may decide to present the hypotheses before explaining the study conditions if that works better.
 
 ### 4. Tasks
 
-Tasks are designed activities for participants in the study to measure the performance with different conditions. Illustrating tasks may include
+Tasks are designed activities completed by participants in the study to measure performance under different conditions. Illustrating tasks may include
 
 * What do participants see or work with during each task?
 * What do participants have to do in each task, e.g., interactions or other actions?
 * Which steps are they going through?
 
-### 5. Data Samples & Study Materials
+### 5. Stimuli & Study Materials
 
-Data samples are selected or generated examples to be used in the study. The samples should reflect
+Stimuli are selected or generated examples to be used in the study. The stimuli stage should contain
 
-* representative examples of samples,
-* parameters and factors that influenced the eventual generation of samples (e.g., size, difficulty, ...)
+* representative examples of stimuli,
+* parameters and factors that influenced the eventual generation of stimuli (e.g., size, difficulty, ...)
 * generation methods, if appropriate.
 
 ### 6. Power Analysis
 
-Power can be calculated and reported for an experiment to comment on the confidence one might have in the conclusions drawn from the results of the study. It can be used as a tool to estimate the number of observations or sample size required in order to detect an effect in an experiment.
+Statistical power can be calculated and reported for an experiment to comment on the confidence one might have in the conclusions drawn from the results of the study. 
+
+A priori power analysis can be used as a tool to estimate the number of participants required in order to detect an effect in an experiment with a certain probability. The power analysis stage should contain an a priori estimate of the study's power and the assumptions that were used in the power analysis calculation.
+
+Power analysis is an important step in experimental design, but many studies in HCI currently do not make use of it. If that is the case, skip this stage. 
 
 ### 7. Study Setup
 
-The study setup gives an overview of the study process and logic. It can include
+The study setup gives an overview of the study process and the logic that went into the study design. It can include
 
 * an explanation of the study environment (e.g., in lab, in-the-wild, crowd-sourced, specific devices, interviews, ...)
 * participants and specific selection criteria
@@ -140,30 +148,30 @@ This stage should report
 * What data has been collected (e.g., error, task-completion time, subjective feedback, counting mouse clicks, eye-tracking, ...)
 * how data has been collected or calculated (e.g., which stages of the study were timed, how was task-accuracy calculated, how was eye-tracking analyzed, how were interview replied coded, ...)
 
-## Part II: Result Analysis
+## Part II:  Analysis of Results
 
 ### 9. Data Transformations and Checks
 
-This stage presents the transformations and checks for the data, performed before the result analysis and any significant tests or regressions. This stage includes explaining
+This stage presents the transformations and checks done on the collected data, performed before the analysis of results and any significance tests or other inferential statistics. This stage includes explaining
 
 * data transformations (e.g., log-transform, ...)
-* outlier removals and winsorizing
-* checking for normal distributions
+* outlier removal and/or winsorizing
+* checks for normality of data distributions
+* checks for other asssumptions of statistical tests used in analysis
 
-### 10. Results Presentation
+### 10. Presentation of Results 
 
-The result presentation is an essential stage of the entire report. Although it can be shown in different levels of detail, it may use one chart to summarize a result, while the visualization may require some explanation to highlight
+The presentation of results is an essential stage for a study report. This stage can be shown in different levels of detail: it can often use a single chart to summarize a key result, but this visualization may require some explanation to highlight
 
-* reordering bars to be compared side by side on a bar chart
-* show significant differences between conditions (e.g., which differences did you find, how strong were they, which differences were significant, ...)
-* Show other findings such as trends, extreme values, distributions, showing outliers,
-* You can provide different views onto the same chart (e.g., provide overview and detail, or show the same chart twice with different annotations). Furthermore, it may discuss how results reflect different conditions by referring to the data samples.
+* show significant differences between conditions (e.g., which differences did you find, how large were they, which differences were significant, ...)
+* Show other findings such as trends, extreme values, distributions, outliers, etc.
+* You can provide different views onto the same chart (e.g., provide overview and detail, or show the same chart twice with different annotations). Furthermore, it may discuss how results reflect different conditions by referring to the stimuli.
 
-### 11. Hypotheses Proof
+### 11. Hypothesis evaluation
 
 This stage presents the conclusion by contrasting hypotheses, as stated in the beginning, with the result of the study. You may show
 
 * How do your hypotheses compare with your results?
-* Which hypotheses can be accepted and which have to be rejected?
+* Which hypotheses can be confirmed and which have been ruled out?
 
 <!-- prettier-ignore-end -->
