@@ -7,7 +7,7 @@ Alper, Basak, Benjamin Bach, Nathalie Henry Riche, Tobias Isenberg, and Jean-Dan
 
 <style>
     body.gallery .gallery-dest img {
-        padding: 30px;
+        padding: 10px;
         background: #f2f2f2;
     }
 </style>

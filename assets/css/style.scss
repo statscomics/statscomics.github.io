@@ -138,10 +138,10 @@ body.gallery {
 
 .exhib-img {
   margin-bottom: 30px;
-  background: white;
   position: relative;
   img {
     width: 100%;
+    display: block;
   }
   div {
     mix-blend-mode: multiply;

@@ -85,4 +85,26 @@ title: Gallery
     </div>
   </div>
 
+  <div class="single-exhib">
+    <div class="exhib-img">
+      <img src="assets/gallery/4-0.png" />
+    </div>
+    <div class="exhib-info">
+      <div class="exhib-text">
+        <h2>
+          Animation Study
+        </h2>
+        <p>By Fanny Chevalier</p>
+      </div>
+      <div class="exhib-links">
+        <a
+          class="exhib-button" style="width: 120px"
+        >
+          <i class="material-icons">event</i>
+          <small>To be released</small>
+        </a>
+      </div>
+    </div>
+  </div>
+
 </div>
