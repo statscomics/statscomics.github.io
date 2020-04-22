@@ -7,7 +7,7 @@ title: Gallery
 
   <div class="single-exhib">
     <div class="exhib-img">
-      <img src="assets/img/comics/1.jpg" />
+      <img src="assets/gallery/1-0.png" />
     </div>
     <div class="exhib-info">
       <div class="exhib-text">
@@ -34,7 +34,7 @@ title: Gallery
 
   <div class="single-exhib">
     <div class="exhib-img">
-      <img src="assets/img/comics/2.png" />
+      <img src="assets/gallery/2-0.png" />
     </div>
     <div class="exhib-info">
       <div class="exhib-text">
@@ -60,7 +60,7 @@ title: Gallery
 
   <div class="single-exhib">
     <div class="exhib-img">
-      <img src="assets/img/comics/3.jpg" />
+      <img src="assets/gallery/3-0.jpg" />
     </div>
     <div class="exhib-info">
       <div class="exhib-text">
