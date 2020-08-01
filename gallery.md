@@ -32,6 +32,34 @@ title: Gallery
     </div>
   </div>
 
+  
+  <div class="single-exhib">
+    <div class="exhib-img">
+      <img src="assets/gallery/5-0.jpg" />
+    </div>
+    <div class="exhib-info">
+      <div class="exhib-text">
+        <h2>
+          Understanding Privacy-Related Questions on Stack Overflow
+        </h2>
+        <p>By Zezhong Wang</p>
+      </div>
+      <div class="exhib-links">
+        <a
+          href="https://www.wiki.ed.ac.uk/display/TRG/Developer-Centred+Security+and+Privacy"
+          class="exhib-button"
+        >
+          <i class="material-icons">menu_book</i>
+          <small>Paper</small>
+        </a>
+        <a href="/gallery/privacy.html" class="exhib-button">
+          <i class="material-icons">crop_original</i>
+          <small>Comic</small>
+        </a>
+      </div>
+    </div>
+  </div>
+
   <div class="single-exhib">
     <div class="exhib-img">
       <img src="assets/gallery/2-0.png" />
