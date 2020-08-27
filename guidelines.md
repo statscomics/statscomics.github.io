@@ -5,9 +5,9 @@ title: Guidelines
 
 <!-- prettier-ignore-start -->
 
-# Creating Stats Comics
+# Creating Data Comics for Reporting Controlled User Studies
 
-Stats comics aim to provide easy access to
+Data Comics aim to provide easy access to
 
 * hypotheses, conditions, and decisions involved in a study
 * the setup, steps, and procedure,
@@ -28,7 +28,7 @@ Especially for stats comics, that means that __you can__
 * use a variable number of panels: sometimes a single panel is enough, sometimes you may decide on several panels.
 * experiment with panel size: some panels might be large and contain a lot of information, sometimes a panel might be fairly small with a picture only.
 
-# Purpose of This Stats Comics Workshop
+# Purpose of This Collaborative Design Session
 
 The purpose of this workshop is
 
@@ -37,7 +37,7 @@ The purpose of this workshop is
 
 The workshop is structured as follows:
 
-1. We __introduce stats comics__, including an [example](gallery.html),
+1. We __introduce data comics__, including an [example](gallery.html),
 2. explain the __background of our research__,
 3. __you prepare a storyboard__ - i.e., a rough outline - for your own stats comic, using the below [stages and guidelines](#stats-comics-stages). That storyboard, should contain information about
 
@@ -51,7 +51,7 @@ The workshop is structured as follows:
 
 More information about the study and the ethics procedure can be [found here](workshop.html). For any questions, please contact [Zezhong Wang](mailto:zezhong.wang@ed.ac.uk).
 
-# Stats Comics Stages
+# Report Stages
 
 This section guides you through creating a stats comic for your own study.
 
