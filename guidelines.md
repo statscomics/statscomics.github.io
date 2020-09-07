@@ -64,20 +64,19 @@ _We do not give visual examples to not bias your decisions. We are interested in
 
 ## Part I: Setup & Procedure
 
-1. [Context and Motivation](#1-context-and-motivation)
+1. [Context](#1-context)
 2. [Conditions](#2-conditions)
 3. [Hypotheses](#3-hypotheses)
 4. [Tasks](#4-tasks)
-5. [Stimuli & Study Materials](#5-stimuli--study-materials)
-6. [Power Analysis](#6-power-analysis)
+5. [Stimuli & Materials](#5-stimuli--study-materials)
+6. [Participans](#6-Participans)
 7. [Study Setup](#7-study-setup)
-8. [Dependent Variables and Data Collection](#8-dependent-variables-and-data-collection)
-9. [Data Transformations and Checks](#9-data-transformations-and-checks)
-10. [Presentation of Results](#10-presentation-of-results)
-11. [Hypothesis Evaluation](#11-hypothesis-evaluation)
+8. [Data Transformations](#9-data-transformations)
+9. [Result Presentation](#10-result-presentation)
+10. [Hypothesis Evaluation](#11-hypothesis-evaluation)
 
 
-### 1. Context and Motivation
+### 1. Context
 
 The objective of this stage is to introduce the research problem to your audience and to provide context and background knowledge to help the audience to understand your research. This includes
 
@@ -115,7 +114,7 @@ Tasks are designed activities completed by participants in the study to measure 
 * What do participants have to do in each task, e.g., interactions or other actions?
 * Which steps are they going through?
 
-### 5. Stimuli & Study Materials
+### 5. Stimuli & Materials
 
 Stimuli are selected or generated examples to be used in the study. The stimuli stage should contain
 
@@ -123,7 +122,7 @@ Stimuli are selected or generated examples to be used in the study. The stimuli 
 * parameters and factors that influenced the eventual generation of stimuli (e.g., size, difficulty, ...)
 * generation methods, if appropriate.
 
-### 6. Power Analysis
+### 6. Participans
 
 Statistical power can be calculated and reported for an experiment to comment on the confidence one might have in the conclusions drawn from the results of the study. 
 
@@ -141,16 +140,10 @@ The study setup gives an overview of the study process and the logic that went i
 * important information about each state (e.g., length of each stage); sample and task assignment (e.g., by randomization plot)
 * randomization
 
-### 8. Dependent Variables and Data Collection
-
-This stage should report
-
-* What data has been collected (e.g., error, task-completion time, subjective feedback, counting mouse clicks, eye-tracking, ...)
-* how data has been collected or calculated (e.g., which stages of the study were timed, how was task-accuracy calculated, how was eye-tracking analyzed, how were interview replied coded, ...)
 
 ## Part II:  Analysis of Results
 
-### 9. Data Transformations and Checks
+### 8. Data Transformations
 
 This stage presents the transformations and checks done on the collected data, performed before the analysis of results and any significance tests or other inferential statistics. This stage includes explaining
 
@@ -159,7 +152,7 @@ This stage presents the transformations and checks done on the collected data, p
 * checks for normality of data distributions
 * checks for other asssumptions of statistical tests used in analysis
 
-### 10. Presentation of Results 
+### 9. Result Presentation
 
 The presentation of results is an essential stage for a study report. This stage can be shown in different levels of detail: it can often use a single chart to summarize a key result, but this visualization may require some explanation to highlight
 
@@ -167,7 +160,7 @@ The presentation of results is an essential stage for a study report. This stage
 * Show other findings such as trends, extreme values, distributions, outliers, etc.
 * You can provide different views onto the same chart (e.g., provide overview and detail, or show the same chart twice with different annotations). Furthermore, it may discuss how results reflect different conditions by referring to the stimuli.
 
-### 11. Hypothesis Evaluation
+### 10. Hypothesis Evaluation
 
 This stage presents the conclusion by contrasting hypotheses, as stated in the beginning, with the result of the study. You may show
 
