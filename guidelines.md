@@ -7,18 +7,18 @@ title: Guidelines
 
 # Creating Data Comics for Reporting Controlled User Studies
 
-Data Comics aim to provide easy access to
+Data Comics for reporting controlled user studies aim to provide easy access to
 
 * hypotheses, conditions, and decisions involved in a study
 * the setup, steps, and procedure,
 * the results
 
-To that end, stats comics draw inspiration from traditional comics such as
+To that end, data comics draw inspiration from traditional comics such as
 
 * a combination of __text + picture__, i.e., any picture can be accompanied by text to explain additional information about the picture or provide information to resolve ambiguity in the picture.
 * a __sequence of panels__, whereby each panel can focus on a single message, i.e., a single piece of information, while the sequence helps to explain more complex information
 
-Especially for stats comics, that means that __you can__
+Especially for data comics, that means that __you can__
 
 * illustrate in pictures what requires visual explanation,
 * explain through text what is hard to convey through pictures
@@ -32,14 +32,14 @@ Especially for stats comics, that means that __you can__
 
 The purpose of this workshop is
 
-* __For you:__ to help you create compelling stats comics for your study to be included in your website, a poster, or even a paper.
-* __For us:__ to understand which concepts you need to illustrate, which visual solutions you prefer, and how we can help you create your stats comics. This will help us creating more complete guidelines for stats comics in HCI.
+* __For you:__ to help you create compelling data comics for your study to be included in your website, a poster, or even a paper.
+* __For us:__ to understand which concepts you need to illustrate, which visual solutions you prefer, and how we can help you create your comics. This will help us creating more complete guidelines for data comics in HCI.
 
-The workshop is structured as follows:
+The collaborate design is structured as follows:
 
 1. We __introduce data comics__, including an [example](gallery.html),
 2. explain the __background of our research__,
-3. __you prepare a storyboard__ - i.e., a rough outline - for your own stats comic, using the below [stages and guidelines](#stats-comics-stages). That storyboard, should contain information about
+3. __you prepare a storyboard__ - i.e., a rough outline - for your own data comic, using the below [stages and guidelines](#report-stages). That storyboard, should contain information about
 
 * what to show and in which order
 * textual annotations
@@ -53,7 +53,7 @@ More information about the study and the ethics procedure can be [found here](wo
 
 # Report Stages
 
-This section guides you through creating a stats comic for your own study.
+This section guides you through creating a data comic for your own study.
 
 Keep in mind the following:
 
