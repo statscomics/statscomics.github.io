@@ -69,11 +69,11 @@ _We do not give visual examples to not bias your decisions. We are interested in
 3. [Hypotheses](#3-hypotheses)
 4. [Tasks](#4-tasks)
 5. [Stimuli & Materials](#5-stimuli--study-materials)
-6. [Participans](#6-Participans)
+6. [Participans](#6-participans)
 7. [Study Setup](#7-study-setup)
-8. [Data Transformations](#9-data-transformations)
-9. [Result Presentation](#10-result-presentation)
-10. [Hypothesis Evaluation](#11-hypothesis-evaluation)
+8. [Data Transformations](#8-data-transformations)
+9. [Result Presentation](#9-result-presentation)
+10. [Hypothesis Evaluation](#10-hypothesis-evaluation)
 
 
 ### 1. Context
