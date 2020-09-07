@@ -2,6 +2,8 @@
 layout: page
 title: Publication
 ---
-
-## Surprise! No pub yet
+## Video Preview
+## Video Presentation
+## The paper was published in IEEE VIS 2020 (inforVis)
 Read the paper here.
+
