@@ -2,10 +2,9 @@
 layout: page
 title: Publication
 ---
-## Video Preview
-(coming soon!)
-## Video Presentation
-(coming soon!)
-## The paper was published in IEEE VIS 2020 (inforVis)
-Read the paper here.
+[![Video Preview]()](https://youtu.be/k9kM30ThPg4)
 
+![](assets/img/wang2020stats.png)
+**[Data Comics for Reporting Controlled User Studies in Human-Computer Interaction](wang2020stats.pdf)**:
+Zezhong Wang, Jacob Ritchie, Jingtao Zhou, Fanny Chevalier, Benjamin Bach
+*IEEE Transactions on Visualization and Computer Graphics (TVCG) 2021 (IEEE VIS, 2020))* 
