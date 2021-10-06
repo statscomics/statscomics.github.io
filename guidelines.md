@@ -5,7 +5,7 @@ title: Guidelines
 
 <!-- prettier-ignore-start -->
 
-<div class="note">This page is for workshop-related usage.</div>
+<div class="note">This page is for workshop-related usages.</div>
 
 # Creating Data Comics for Reporting Controlled User Studies
 
