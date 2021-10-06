@@ -5,6 +5,8 @@ title: Guidelines
 
 <!-- prettier-ignore-start -->
 
+<div class="note">This page is for workshop-related usage.</div>
+
 # Creating Data Comics for Reporting Controlled User Studies
 
 Data Comics for reporting controlled user studies aim to provide easy access to

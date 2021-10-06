@@ -297,7 +297,7 @@ body.showcase {
     box-sizing: border-box;
   }
   .sc-huge-title {
-    font-size: 80px;
+    font-size: 68px;
     font-weight: 800;
     letter-spacing: -3px;
     line-height: 0.8;
@@ -370,7 +370,7 @@ body.showcase {
     }
 
     .sc-huge-title {
-      font-size: 60px;
+      font-size: 50px;
     }
 
     .text-group p {
@@ -435,5 +435,15 @@ body.page {
     img {
       height: 40px;
     }
+  }
+
+  .note {
+    background: $primary-highlight;
+    padding: 10px 20px;
+    user-select: none;
+    font-weight: bold;
+    margin-bottom: 18px;
+    border-radius: 10px;
+    opacity: 0.99;
   }
 }
