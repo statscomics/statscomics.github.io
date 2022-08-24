@@ -14,7 +14,7 @@ title: Gallery
         <h2>
           Weighted Graph Comparison Techniques for Brain Connectivity Analysis
         </h2>
-        <p>By Tzingtao Chow</p>
+        <p>By Jingtao Zhou</p>
       </div>
       <div class="exhib-links">
         <a
@@ -95,7 +95,7 @@ title: Gallery
         <h2>
           MySong: Automatic Accompaniment Generation for Vocal Melodies
         </h2>
-        <p>By Tzingtao Chow</p>
+        <p>By Jingtao Zhou</p>
       </div>
       <div class="exhib-links">
         <a
