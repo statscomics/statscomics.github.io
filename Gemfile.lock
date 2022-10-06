@@ -7,8 +7,8 @@ GEM
       minitest (~> 5.1)
       tzinfo (~> 1.1)
       zeitwerk (~> 2.2)
-    addressable (2.7.0)
-      public_suffix (>= 2.0.2, < 5.0)
+    addressable (2.8.1)
+      public_suffix (>= 2.0.2, < 6.0)
     coffee-script (2.4.1)
       coffee-script-source
       execjs
@@ -24,10 +24,12 @@ GEM
       http_parser.rb (~> 0.6.0)
     ethon (0.12.0)
       ffi (>= 1.3.0)
+    eventmachine (1.2.7)
     eventmachine (1.2.7-x64-mingw32)
     execjs (2.7.0)
     faraday (1.0.1)
       multipart-post (>= 1.2, < 3)
+    ffi (1.12.2)
     ffi (1.12.2-x64-mingw32)
     forwardable-extended (2.6.0)
     gemoji (3.0.1)
@@ -197,7 +199,6 @@ GEM
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.3.6)
-    mini_portile2 (2.4.0)
     minima (2.5.1)
       jekyll (>= 3.5, < 5.0)
       jekyll-feed (~> 0.9)
@@ -205,7 +206,7 @@ GEM
     minitest (5.14.0)
     multipart-post (2.1.1)
     nokogiri (1.11.0.rc2-x64-mingw32)
-      mini_portile2 (~> 2.4.0)
+    nokogiri (1.11.0.rc2-x86_64-linux)
     octokit (4.18.0)
       faraday (>= 0.9)
       sawyer (~> 0.8.0, >= 0.5.3)
@@ -240,6 +241,7 @@ GEM
 
 PLATFORMS
   x64-mingw32
+  x86_64-linux
 
 DEPENDENCIES
   github-pages
